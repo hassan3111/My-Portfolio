@@ -99,3 +99,10 @@ h1{
 .edu .school{
   margin-top: -50px;
 }
+
+@media (max-width: 500px){
+  body{
+    color: #ff00ff;
+  }
+
+}
